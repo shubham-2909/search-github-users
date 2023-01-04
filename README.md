@@ -16,4 +16,5 @@ User and Followers component
 
 All charts components
 
-![Uploading Screenshot (630).png…]()
+
+![Screenshot (630)](https://user-images.githubusercontent.com/93830840/210610591-88edd923-cc29-4fad-9dec-938036bf18d2.png)
